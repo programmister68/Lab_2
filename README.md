@@ -2,7 +2,7 @@
 Тема: Каталог CD-дисков
 
 Скачать установщик программы:
-https://github.com/programmister68/Lab_2/tree/main/installer%20(setup) 
+https://github.com/programmister68/Lab_2/blob/main/installer%20(setup)/setup.exe?raw=true
 
 Нужно сделать:
 1) Диаграмму переходов состояний (+);
